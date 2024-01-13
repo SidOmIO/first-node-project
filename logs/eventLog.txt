@@ -1,4 +1,0 @@
-20230816	12:56:05	b7863986-027c-4028-8bf4-b6ee1e36262e	Log event emitted!
-20230816	12:56:12	1c73d6d9-9032-48c9-a772-a715ec4e9653	Log event emitted!
-20230816	12:56:41	ffbaaa7b-15ab-401c-8b0b-ffaceb3c5af9	Log event emitted!
-20230827	06:28:00	83d12de0-a1c1-47c1-b185-ad1b09e9e0cc	Log event emitted!
